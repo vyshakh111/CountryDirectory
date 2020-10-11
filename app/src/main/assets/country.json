@@ -1,0 +1,76 @@
+{
+  "serversList": [
+    {
+      "baseurl": "https://gmail.com/th",
+      "country": "Thailand",
+      "id": "TH",
+      "desc": "Thailand Gmail"
+    },
+    {
+      "baseurl": "https://yahoo.com/th",
+      "country": "Thailand",
+      "id": "TH",
+      "desc": "Thailand Yahoo"
+    },
+    {
+      "baseurl": "https://hotmail.com/th",
+      "country": "Thailand",
+      "id": "TH",
+      "desc": "Thailand Hotmail"
+    },
+    {
+      "baseurl": "https://gmail.com/vn",
+      "country": "Vietnam",
+      "id": "VN",
+      "desc": "Vietnam gmail"
+    },
+    {
+      "baseurl": "https://yahoo.com/vn",
+      "country": "Vietnam",
+      "id": "VN",
+      "desc": "Vietnam yahoo"
+    },
+    {
+      "baseurl": "https://hotmail.com/vn",
+      "country": "Vietnam",
+      "id": "VN",
+      "desc": "Vietnam hotmail"
+    },
+    {
+      "baseurl": "https://gmail.com/sg",
+      "country": "Singapore",
+      "id": "SG",
+      "desc": "Singapore gmail"
+    },
+    {
+      "baseurl": "https://yahoo.com/sg",
+      "country": "Singapore",
+      "id": "SG",
+      "desc": "Singapore Yahoo"
+    },
+    {
+      "baseurl": "https://hotmail.com/sg",
+      "country": "Singapore",
+      "id": "SG",
+      "desc": "Singapore hotmail"
+    },
+    {
+      "baseurl": "https://gmail.com/my",
+      "country": "Malaysia",
+      "id": "MY",
+      "desc": "Malaysia gmail"
+    },
+    {
+      "baseurl": "https://yahoo.com/my",
+      "country": "Malaysia",
+      "id": "MY",
+      "desc": "Malaysia yahoo"
+    },
+    {
+      "baseurl": "https://hotmail.com/my",
+      "country": "Malaysia",
+      "id": "MY",
+      "desc": "Malaysia hotmail"
+    }
+  ]
+}

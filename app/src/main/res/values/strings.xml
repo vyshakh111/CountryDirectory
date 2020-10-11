@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CountryDirectory</string>
+    <string name="country_list_label">Country List</string>
+    <string name="no_items_to_show_label">No items to show</string>
+    <string name="select_country">Click to view details</string>
+    <string name="search_menu">Search</string>
+    <string name="country_name_label">Name:</string>
+    <string name="details_label">Details:</string>
+    <string name="url_label">Url:</string>
+    <string name="id_label">Id:</string>
+    <string name="country_code_label">Country Code</string>
+    <string name="country_details_label">Country Details</string>
+    <string name="add_country_code">Add country code</string>
+    <string name="country_code_hint_label">Enter country code</string>
+    <string name="country_code_dialog_header">Country code</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="save_label">Save</string>
+    <string name="empty_message">Field cannot be empty</string>
+</resources>
